@@ -7,7 +7,6 @@ import time
 import threading
 import requests
 import queue
-import pyttsx3
 import platform
 from gtts import gTTS
 import os

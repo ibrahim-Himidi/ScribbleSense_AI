@@ -81,10 +81,11 @@ Eğer `kurulum.sh` çalışırken bu hatayı alıyorsanız, sisteminiz Ubuntu/De
 ---
 
 ## 🛠️ Teknoloji Yığını
-- **Shortkey:** Shift + Alt + G (Global)
+- **Shortkey:** Shift + Alt + G (Global) / Yüzen AI Butonu
 - **Intelligence:** Ollama (Local LLM) / Google Gemini
-- **Voice:** `pyttsx3` (Offline TTS)
-- **GUI:** `Tkinter`
+- **Voice:** `gTTS` (Neural TTS - Yüksek Kalite)
+- **Audio Engine:** `Pygame` & System Players
+- **GUI:** `Tkinter` (Custom Dark Design)
 
 ---
 

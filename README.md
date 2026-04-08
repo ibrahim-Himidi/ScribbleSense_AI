@@ -22,15 +22,15 @@ DilKoçu AI, bilgisayarınızda (PDF, Word, Tarayıcı vb.) seçtiğiniz herhang
 
 ## ✨ Yeni ve Gelişmiş Özellikler
 
-### 🎓 1. Dil Öğrenme Koçu (Gelişmiş Analiz)
-Yalnızca çeviri yapmakla kalmaz; seçili İngilizce metni parçalarına ayırır:
-- **Derin Gramer Analizi:** "Neden Öyle?" bölümüyle zaman kiplerini ve yapıları açıklar.
-- **3 Seviyeli Örnekler:** Aynı yapıyı Gündelik, Akademik ve Sokak Ağzı formatlarında örnekler.
-- **Kelime Analizi:** Zor kelimelerin kökenini (etimoloji) ve eş anlamlılarını sunar.
+### 🎓 1. Dil Öğrenme Koçu (Sade ve Hızlı Analiz)
+Gereksiz detaylardan arındırılmış, doğrudan öğrenmeye odaklanan yeni analiz yapısı:
+- **Orijinal Metin:** Seçilen metnin temiz ve okunaklı hali.
+- **Türkçe Anlamı:** Metnin en doğal ve akıcı Türkçe karşılığı.
+- **Kelime-Kelime Anlam:** Cümledeki her kelimenin tek tek Türkçe karşılığını gösteren sözlük yapısı.
 
-### 🔊 2. Akıllı Seslendirme (TTS)
-- **Doğal Telaffuz:** Dil Koçu modunda metni İngilizce aksanıyla otomatik olarak seslendirir.
-- **Tekrar Dinleme:** Sonuç ekranındaki buton ile telaffuzu istediğiniz kadar tekrar dinleyebilirsiniz.
+### 🔊 2. Akıllı Seslendirme (Neural TTS)
+- **Doğal Telaffuz:** Dil Koçu modunda metni yüksek kaliteli İngilizce aksanıyla otomatik olarak seslendirir.
+- **Tekrar Dinleme:** Analiz ekranındaki buton sayesinde telaffuzu istediğiniz kadar tekrar dinleyerek pratik yapabilirsiniz.
 
 ---
 

@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Uygulama Önizleme](preview.png)
+
 `Local AI + TTS + Deep Learning = Akıllı Dil Öğrenme Deneyimi`
 
 [![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-111827?style=for-the-badge)](https://docs.ollama.com/quickstart)

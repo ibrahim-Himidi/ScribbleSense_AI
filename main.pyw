@@ -101,14 +101,10 @@ ISLEMLER = {
     "🐍 Python Koduna Çevir": "Bu metindeki isteği yerine getiren bir Python kodu yaz. Sadece kodu ver.",
     "📧 Cevap Yaz (Mail)": "Bu gelen bir e-posta, buna kibar ve profesyonel bir cevap metni taslağı yaz.",
     "🎓 Dil Öğrenme Koçu": (
-        "SADECE aşağıdaki şablona göre cevap ver. Başka hiçbir şey yazma.\n\n"
-        "ŞABLON:\n"
-        "📝 **ORİJİNAL METİN**\n[İngilizce Metin]\n\n"
-        "🇹🇷 **ANLAMI**\n[Doğal Türkçe Çeviri]\n\n"
-        "🔊 **TÜRKÇE OKUNUŞ (Yaklaşık)**\n[Örn: Ay woz ap örli in dı mornink]\n\n"
-        "🧠 **PARÇALAYARAK ANLAM**\n[Kelime -> Anlam]\n\n"
-        "⚡ **DOĞAL CÜMLE**\n[Akıcı Türkçe Çeviri]\n\n"
-        "💡 **KISA NOT**\n[Gramer veya kelime notu]\n\n"
+        "Aşağıdaki metni analiz et ve SADECE bu formatta, başka hiçbir açıklama yapmadan cevap ver:\n\n"
+        "📝 **ORİJİNAL METİN**\n[Metnin kendisi]\n\n"
+        "🇹🇷 **TÜRKÇE ANLAMI**\n[Metnin Türkçe çevirisi]\n\n"
+        "🧠 **KELİME ANLAMLARI**\n[Cümledeki her kelimenin Türkçe karşılığı]\n\n"
         "Analiz edilecek metin: "
     ),
     "🎮 PS5 Oyun Skor + Acımasız Yorum": (

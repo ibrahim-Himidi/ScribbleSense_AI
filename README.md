@@ -109,4 +109,4 @@ Eğer `kurulum.sh` çalışırken bu hatayı alıyorsanız, sisteminiz Ubuntu/De
 ---
 
 ## 🤝 Teşekkür
-Bu projenin temellerini atan ve fikir babası olan **Dr. Ufuk Asıl**'a katkılarından dolayı teşekkür ederiz. Orijinal projeye [buradan](https://github.com/u-asil) ulaşabilirsiniz.
+Bu projenin temellerini atan ve fikir babası olan **Dr. Ufuk Asıl**'a katkılarından dolayı teşekkür ederiz. Orijinal projeye [buradan](https://github.com/ufukasia/Introduction-to-Data-Visualization-Project-Assignment) ulaşabilirsiniz.

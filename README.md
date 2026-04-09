@@ -34,6 +34,25 @@ Gereksiz detaylardan arındırılmış, doğrudan öğrenmeye odaklanan yeni ana
 
 ---
 
+## 🦙 Ollama Kurulumu (Yerel Yapay Zeka)
+
+DilKoçu AI'nın yerel olarak çalışabilmesi ve hızlı analiz yapabilmesi için bilgisayarınızda **Ollama** yüklü olmalıdır.
+
+### 1. Ollama'yı Kurun
+- **Linux & macOS:** Terminali açın ve şu komutu çalıştırın:
+  ```bash
+  curl -fsSL https://ollama.com/install.sh | sh
+  ```
+- **Windows:** [ollama.com](https://ollama.com/download/windows) adresinden Windows kurulum dosyasını indirip çalıştırın.
+
+### 2. Modeli İndirin ve Çalıştırın (Gemma 3:1B)
+Programın beyni olarak çalışan modeli indirmek ve test etmek için terminale şu komutu yazın (bu komut hem indirmeyi hem de başlatmayı sağlar):
+```bash
+ollama run gemma3:1b
+```
+
+---
+
 ## 🚀 Kurulum ve Başlatma
 
 Programın çalışması için gerekli kütüphaneler bir sanal ortamda (`.venv`) tutulmaktadır. Doğrudan `python3 main.pyw` komutu hata verecektir.

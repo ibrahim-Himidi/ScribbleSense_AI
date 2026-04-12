@@ -34,6 +34,37 @@ Gereksiz detaylardan arındırılmış, doğrudan öğrenmeye odaklanan yeni ana
 
 ---
 
+## 🛠️ Çalışma Süreci (Pipeline)
+
+Uygulamanın metni analiz etme ve size sunma süreci aşağıda şematize edilmiştir:
+
+```mermaid
+flowchart TD
+
+A[Herhangi bir dokümanda metin seç] --> B{Tetikleyici}
+B -->|Kısayol| B1[Shift + Alt + G]
+B -->|Buton| B2[Yüzen AI Butonu]
+
+B1 --> C[Metni Yakala]
+B2 --> C
+
+C --> D[İşlem Seçimi]
+D -->|Dil Öğrenme Koçu| E[Ollama: Gemma 3:1B]
+
+E --> F[Yapay Zeka Analizi]
+
+subgraph Sonuç Sunumu
+F --> G[GUI Penceresi]
+F --> H[Otomatik Seslendirme]
+end
+
+G --> I[Orijinal Metin & Çeviri]
+G --> J[Kelime-Kelime Anlamlar]
+H --> K[gTTS: Doğal İngilizce Telaffuz]
+```
+
+---
+
 ## 🦙 Ollama Kurulumu (Yerel Yapay Zeka)
 
 DilKoçu AI'nın yerel olarak çalışabilmesi ve hızlı analiz yapabilmesi için bilgisayarınızda **Ollama** yüklü olmalıdır.

@@ -14,7 +14,6 @@
 ---
 
 ## 📖 Proje Hakkında
-Bu proje, **Dr. Ufuk Asıl** tarafından geliştirilen "AI Asistan Kampüsü" projesi temel alınarak fork edilmiş ve üzerinde kapsamlı geliştirmeler yapılarak bir **"Dil Öğrenme Koçu"** haline getirilmiştir. 
 
 DilKoçu AI, bilgisayarınızda (PDF, Word, Tarayıcı vb.) seçtiğiniz herhangi bir metni tek bir tıklamayla (**🤖 AI Butonu**) veya kısayol tuşuyla (**Shift + Alt + G**) analiz eder, sesli telaffuz eder ve size o metnin gramer yapısını öğreten bir asistan vazifesi görür.
 
